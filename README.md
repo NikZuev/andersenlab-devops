@@ -2,10 +2,10 @@
 
 ## About me:
 My name is Nikolai Zuev.
--I studied at the Belarusian State University of Transport at the Faculty of Transportation Process Management, 
+- I studied at the Belarusian State University of Transport at the Faculty of Transportation Process Management, 
 worked in my specialty, but since 2009, I have moved to the IT sector.
--I work as an engineer administrator of telecommunications systems.
--I am interested in the IT direction and DevOps in particular. I like that the DevOps profession combines many different areas.
+- I work as an engineer administrator of telecommunications systems.
+- I am interested in the IT direction and DevOps in particular. I like that the DevOps profession combines many different areas.
 
 # I am interested in this DevOps course because I want to:
 
