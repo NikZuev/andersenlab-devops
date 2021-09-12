@@ -1,19 +1,21 @@
 # andersenlab-devops
 
-## About me
+## About me:
 My name is Nikolai Zuev.
+-I studied at the Belarusian State University of Transport at the Faculty of Transportation Process Management, 
+worked in my specialty, but since 2009, I have moved to the IT sector.
+-I work as an engineer administrator of telecommunications systems.
+-I am interested in the IT direction and DevOps in particular. I like that the DevOps profession combines many different areas.
 
+# I am interested in this DevOps course because I want to:
 
-Почему интересен курс:
+- get the necessary knowledge to start in DevOps.
+- continue training, develop in this direction.
+- work as a DevOps .
 
-- 1 add
-- 2
-- 3
+# What I expect from this DevOps course:
 
-Чего ожидаю от курса:
-- 1
-- 2
-- 3
+- All of the above.
 
 TIL 01.09.2021
 - что сделал
